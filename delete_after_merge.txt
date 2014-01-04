@@ -1,2 +1,0 @@
-This file will be deleted after we merge.
-File was already deleted, but we are adding it again with the same name.
